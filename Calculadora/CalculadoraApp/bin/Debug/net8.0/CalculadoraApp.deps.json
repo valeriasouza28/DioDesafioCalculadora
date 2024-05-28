@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculadoraApp/1.0.0": {
+        "dependencies": {
+          "CalculadoraConsole": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraApp.dll": {}
+        }
+      },
+      "CalculadoraConsole/1.0.0": {
+        "runtime": {
+          "CalculadoraConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculadoraConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
